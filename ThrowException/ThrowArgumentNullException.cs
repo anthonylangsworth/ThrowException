@@ -26,7 +26,7 @@ namespace ThrowException
         /// at the top of a method to check for null arguments and throw the
         /// appropriate <see cref="ArgumentNullException"/>s, use:
         /// <code>
-        /// ThrowArgumentNullException.IfNull(() =&gt; argmument1, () =&gt; argmument2);
+        /// ThrowArgumentNullException.IfNull(() =&gt; argument1, () =&gt; argument2);
         /// </code>
         /// The ArgumentNullException thrown contains the correct argument name.
         /// </remarks>
