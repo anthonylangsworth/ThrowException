@@ -1,7 +1,7 @@
 ThrowException
 ==============
 
-A simple experiment into using System.Linq.Expression to automatically include the argument name in commonly thrown exceptions, such as ArgumentNullException and ArgumentException.
+A simple experiment in using System.Linq.Expression to automatically include the argument name in commonly thrown exceptions, such as ArgumentNullException and ArgumentException.
 
 This ended up similar to answers to questions on stack overflow such as http://stackoverflow.com/questions/12043875/argumentnullexception-how-to-simplify.
 
